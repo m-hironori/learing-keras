@@ -16,7 +16,29 @@ Jupyter NoteBook形式で記述し、Google Colabなどクラウドでの実行�
   * 2値分類(日本語：[Tweet評価情報ありなし](http://www.cl.ecei.tohoku.ac.jp/resources/twitter_target_review/))
 * 多値分類(Reutersニュース)
   * 多値分類([LiveDoorニュース](https://www.rondhuit.com/download.html#ldcc))
-* 回帰
+* 回帰(Boston Housingデータセットの価格予測)
 
-###
+### 機械学習モデルの評価
+
+* 評価のプロセス(簡単に)
+* 過学習への対処 - ネットワークサイズを削減
+* 過学習への対処 - 重みの正則化
+* 過学習への対処 - ドロップアウト
+
+### 画像処理
+
+### テキスト処理
+
+### 高度使い方
+
+* 多入力多出力
+* 重みの共有
+* TensorBord
+
+### 生成系
+
+* LSTMによる文生成
+* 画風変換
+* 変分オートエンコーダー(VAE)
+* GAN
 
