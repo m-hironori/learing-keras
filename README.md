@@ -3,7 +3,7 @@
 Kerasをつかって、既存モデルは使えるけど、モデルを自分で組み立てるには敷居が高い人向けの学習コンテンツを目指す
 
 内容は[Deep Learning with Python (Manning Publications)](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff)をもとにしています。
-日本語版も出てます。[PythonとKerasによるディープラーニング](https://book.mynavi.jp/ec/products/detail/id=90124)
+日本語版 [PythonとKerasによるディープラーニング](https://book.mynavi.jp/ec/products/detail/id=90124)。
 
 Jupyter NoteBook形式で記述し、Google Colabなどクラウドでの実行もできるようにしていきます。
 
