@@ -11,7 +11,7 @@ Jupyter NoteBook形式で記述し、Google Colabなどクラウドでの実行�
 
 ### ニューラルネットワーク入門(知っている人は飛ばしてもいい)
 
-* モデル作成の基本(MNISTデータで手書き文字認識)
+* [モデル作成の基本(MNISTデータで手書き文字認識)](https://nbviewer.jupyter.org/github/m-hironori/learing-keras/blob/master/1_%E3%83%A2%E3%83%87%E3%83%AB%E4%BD%9C%E6%88%90%E3%81%AE%E5%9F%BA%E6%9C%AC%28MNIST%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A7%E6%89%8B%E6%9B%B8%E3%81%8D%E6%96%87%E5%AD%97%E8%AA%8D%E8%AD%98%29.ipynb)
 * 2値分類(IMDbレビュー)
   * 2値分類(日本語：[Tweet評価情報ありなし](http://www.cl.ecei.tohoku.ac.jp/resources/twitter_target_review/))
 * 多値分類(Reutersニュース)
